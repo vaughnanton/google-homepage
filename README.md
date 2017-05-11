@@ -1,2 +1,2 @@
 # google-homepage
-Attempt to replicate Google homepage; learning to use DevTools while writing HTML/CSS.
+A non-functional visual replica of the Google homepage. Good practice for using terminal/git/github while learning to use DevTools, and writing basic HTML/CSS.
