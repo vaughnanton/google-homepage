@@ -1,0 +1,90 @@
+body {
+  font-family:Helvetica Neue;
+}
+
+.gmail {
+  border-radius:32px;
+  width:40px;
+}
+
+.bell {
+  border-radius:20px;
+}
+
+.googleIMG {
+  margin-top:140px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.topNavBar {
+  text-align:right;
+  font-size:1em;
+  opacity:.65;
+}
+
+.searchBar {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  width:800px;
+  height:40px;
+}
+
+button {
+  font-weight:bold;
+  font-size:.9em;
+  background:#cdcccc;
+  opacity:.7;
+  height:35px;
+  width:150px;
+  display:inline;
+  margin-top:10px;
+  margin-right:5px;
+}
+
+.btn:hover {
+  opacity:.5;
+}
+
+.buttons {
+  text-align:center;
+}
+
+ul {
+  margin:0;
+  padding:0;
+  list-style-type:none;
+}
+
+li {
+  display:inline;
+  padding:15px;
+  font-weight:bold;
+}
+
+li:hover {
+  text-decoration:underline;
+  opacity:.5;
+}
+
+.btmNavBar {
+  background:#cdcccc;
+  opacity:.6;
+  height:40px;
+  margin-top:140px;
+}
+
+.leftNav {
+  float:left;
+  margin-right:30px;
+  padding:10px;
+}
+
+.rightNav {
+  float:right;
+  margin-left:40px;
+  padding:10px;
+}
