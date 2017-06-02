@@ -12,7 +12,7 @@ body {
 }
 
 .googleIMG {
-  margin-top:135px;
+  margin-top:140px;
   display:block;
   margin-left:auto;
   margin-right:auto;
@@ -21,16 +21,16 @@ body {
 .topNavBar {
   text-align:right;
   font-size:1em;
-  opacity:.65;
+  opacity:.6;
 }
 
 .searchBar {
   display:block;
   margin-left:auto;
   margin-right:auto;
-  margin-top:20px;
-  width:760px;
-  height:40px;
+  margin-top:25px;
+  width:775px;
+  height:45px;
 }
 
 button {
